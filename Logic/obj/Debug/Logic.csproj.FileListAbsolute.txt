@@ -1,0 +1,48 @@
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUX\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUX\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUX\obj\Debug\LibraryUX.dll
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUX\obj\Debug\LibraryUX.pdb
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUX\bin\Debug\LibraryUX.dll
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUX\bin\Debug\LibraryUX.pdb
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUX\bin\Debug\LibraryUX.pri
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUX\bin\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUX\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUX\obj\Debug\priconfig.xml
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUX\obj\Debug\priconfig.xml.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUX\obj\Debug\unfiltered.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUX\obj\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUX\obj\Debug\filtered.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUX\obj\Debug\filtered.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUX\obj\Debug\excluded.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUX\obj\Debug\excluded.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUX\obj\Debug\resources.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUX\obj\Debug\resources.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUX\obj\Debug\pri.resfiles
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUX\obj\Debug\pri.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUX\obj\Debug\qualifiers.txt
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUX\obj\Debug\qualifiers.txt.intermediate
+C:\Users\idop9\OneDrive\Desktop\Full Course Sela\LibraryNEWwithDB\oLibraryUX\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\Logic\bin\Debug\LibraryUX.dll
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\Logic\bin\Debug\LibraryUX.pdb
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\Logic\bin\Debug\LibraryUX.pri
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\Logic\bin\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\Logic\obj\Debug\LibraryUX.dll
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\Logic\obj\Debug\LibraryUX.pdb
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\Logic\obj\Debug\priconfig.xml
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\Logic\obj\Debug\priconfig.xml.intermediate
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\Logic\obj\Debug\unfiltered.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\Logic\obj\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\Logic\obj\Debug\filtered.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\Logic\obj\Debug\filtered.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\Logic\obj\Debug\excluded.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\Logic\obj\Debug\excluded.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\Logic\obj\Debug\resources.resfiles
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\Logic\obj\Debug\resources.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\Logic\obj\Debug\pri.resfiles
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\Logic\obj\Debug\pri.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\Logic\obj\Debug\qualifiers.txt
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\Logic\obj\Debug\qualifiers.txt.intermediate
+C:\Users\idop9\OneDrive\Desktop\My Projects\LibraryProj\Logic\obj\Debug\MultipleQualifiersPerDimensionFound.txt

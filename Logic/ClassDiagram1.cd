@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LibraryUX.Helper_Classes.Converter" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="16" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAEAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper Classes\Converter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="LibraryUX.Helper_Classes.MyCashBox">
+    <Position X="9" Y="8" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAABIAAAEQCAAAIIAIAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Helper Classes\MyCashBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryUI.Pages.ErrorMassages">
+    <Position X="2.75" Y="18" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAGAAABBgADCAAgIAAAQACAQAAAA=</HashCode>
+      <FileName>Helper Classes\ErrorMassages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryUI.Pages.UIMassages">
+    <Position X="5.5" Y="18" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ACAAgAAAAgAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Helper Classes\UIMassages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryData">
+    <Position X="5.5" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAACAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper Classes\JsonFileSerialize.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JsonFileSerialize">
+    <Position X="8" Y="14.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAIAAAIAAAAAAAAAAAAAAAAACAAAAAE=</HashCode>
+      <FileName>Helper Classes\JsonFileSerialize.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NumbersCheck">
+    <Position X="8" Y="18" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQQAAAAAAAAAEBAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Helper Classes\NumbersCheck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oLibraryUX.Book">
+    <Position X="2" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oLibraryUX.Item">
+    <Position X="4.5" Y="8" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAQAQgAAECAIAAAQAAgIAAAAQAAIAAAAAAgA=</HashCode>
+      <FileName>Model\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oLibraryUX.Librarian">
+    <Position X="6.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Librarian.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oLibraryUX.Magazine">
+    <Position X="2" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Magazine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oLibraryUX.Users">
+    <Position X="6.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAQAAAAACAACAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="oLibraryUX.LibraryManager">
+    <Position X="6" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAEEABQAAABARAADAQAgFBACIEEAAAAIAAAAAA=</HashCode>
+      <FileName>LibraryManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="LibraryUX.MovePage">
+    <Position X="5.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper Classes\EnumHelpers.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="LibraryUX.Costs">
+    <Position X="2.75" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper Classes\EnumHelpers.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>
